@@ -95,7 +95,7 @@ body *, .userPopout-3XzG_A * {
 .wordmarkWindows-1v0lYD::after {
   content: '';
   display: inline-block;
-  -webkit-mask-image: url("title.svg");
+  -webkit-mask-image: url("https://raw.githubusercontent.com/mr-ghost3/discordtheme/main/title.svg");
   -webkit-mask-repeat: no-repeat;
   -webkit-mask-size: cover;
   background-color: var(--highlight);
